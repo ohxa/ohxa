@@ -10,5 +10,5 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ohxa&theme=dark)
 
 ## 🌐 Links
-- Discord: soon
-- Website: soon
+- Discord: @xzcxzxczxcz
+- Website: https://intrustion.vercel.app/
