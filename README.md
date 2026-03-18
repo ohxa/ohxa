@@ -14,11 +14,8 @@
 </a>
 
 <p align="center">
-  💻 Developer interested in modern web technologies
-<p>
-<p align="center">
-  ⚙️ Building cool stuff and experimenting with code  
-<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2800&pause=800&color=FFFFFF&center=true&vCenter=true&width=500&lines=i+build+random+things;self-taught+developer;no+big+projects...+yet" />
+</p>
 
 ## Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=ohxa&show_icons=true&theme=dark) ![GitHub Streak](https://streak-stats.demolab.com/?user=ohxa&theme=dark)
