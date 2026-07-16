@@ -25,13 +25,13 @@
 
 ## status
 <p align="center">
-  <img src="https://lanyard.kyrie25.dev/api/1456326476734533734?waveColor=fff&waveSpotifyColor=212121&gradient=fff&borderRadius=25px&bg=000">
+  <img src="https://lanyard.kyrie25.dev/api/1315356850530684938?waveColor=fff&waveSpotifyColor=212121&gradient=fff&borderRadius=25px&bg=000">
 </p>
 
 ---
 
 ## links
 <p align="center">
-  <a href="https://discord.com/users/1456326476734533734">discord</a><br>
-  <a href="https://intrustion.vercel.app/">website</a>
+  <a href="https://discord.com/users/1315356850530684938">discord</a><br>
+  <a href="https://sadism.lol/">website</a>
 </p>
