@@ -4,8 +4,8 @@
   <a href="https://github.com/ohxa">
     <img src="https://img.shields.io/badge/github-ohxa-000000?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://discord.com/users/1456326476734533734">
-    <img src="https://img.shields.io/badge/discord-xzcxzxczxcz-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  <a href="https://discord.com/users/1315356850530684938">
+    <img src="https://img.shields.io/badge/discord-.poz-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
 
